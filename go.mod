@@ -7,6 +7,8 @@ require (
 	github.com/schattenbrot/explerror v0.2.1
 )
 
+require github.com/go-chi/cors v1.2.1
+
 require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/go-openapi/jsonpointer v0.21.0 // indirect
